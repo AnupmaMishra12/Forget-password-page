@@ -18,14 +18,14 @@ A simple and responsive password reset form built using **HTML**, **CSS**, and *
   
 ## 📸 Screenshots
 
-*(Add screenshots here if available)*
+
 
 
 
 ## 🚀 Live Demo
 
-[Click here to view the live site](#)  
-*(Replace `#` with your GitHub Pages or Netlify link)*
+[Click here to view the live site](https://github.com/AnupmaMishra12/Forget-password-page)  
+
 
 ## 📁 Folder Structure
 
